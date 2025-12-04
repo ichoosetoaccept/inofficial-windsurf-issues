@@ -5,21 +5,17 @@ title: '[FEATURE] '
 labels: enhancement, feature-request
 assignees: ''
 ---
-
 ## Feature Description
-A clear and concise description of the feature you'd like to see added to Windsurf IDE.
+**Required**: A clear and concise description of the feature you'd like to see added to Windsurf IDE.
 
 ## Problem Statement
-What problem does this feature solve? What limitation does it address?
+**Required**: What problem does this feature solve? What limitation does it address?
 
 ## Proposed Solution
-Describe the solution you'd like in detail. How would you imagine this feature working?
-
-## Alternative Solutions
-Describe any alternative solutions or features you've considered.
+**Required**: Describe the solution you'd like in detail. How would you imagine this feature working?
 
 ## Use Cases
-Provide specific examples of how this feature would be used:
+**Required**: Provide specific examples of how this feature would be used:
 
 1. **Use Case 1**: [Describe a specific scenario]
 2. **Use Case 2**: [Describe another scenario]
