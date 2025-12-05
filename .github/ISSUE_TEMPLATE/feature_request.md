@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest a new feature or enhancement for Windsurf IDE
-title: '[FEATURE] '
+title: ''
 labels: enhancement, feature-request
 assignees: ''
 ---
